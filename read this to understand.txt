@@ -1,0 +1,3 @@
+1. load tpdf
+2. create helper.php in helper file and load that helper in controller
+3.create pdfreport.php in view 
